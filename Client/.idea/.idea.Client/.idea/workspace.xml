@@ -4,12 +4,7 @@
     <projectFile>Client/Client.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf530bb6-1bb5-4dfa-86d7-e8cc5b7ad821" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Client.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Client.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ImportExport" beforeDir="false" afterPath="$PROJECT_DIR$/../ImportExport" afterDir="false" />
-    </list>
+    <list default="true" id="8005afdc-76d9-48fe-a6f8-e76edb879a93" name="Changes" comment="added another." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
